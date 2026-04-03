@@ -1,0 +1,57 @@
+# Muhammad Ali Review Room
+
+> Private review room for Jerry + agents.
+> Current grade: strong enough for preliminary diligence.
+> Main blocker: predecessor chain Ali -> Jaggi -> Grohe remains thinner than the rest of the package.
+
+## Start Here
+
+- [Review Console](index.html)
+- [Five Rings Map](five-rings-map.json)
+- [Strategic Path Map](strategic-path-map.json)
+- [Signal-First Library](library.html?mode=signal)
+- [Review Map JSON](review-map.json)
+- [Supplemental Index](documents/supplemental/index.html)
+- [Supplemental Index JSON](documents/supplemental/index.json)
+
+## Review Paths
+
+- ring-first pass: Earth / Foundation & Control, Water / Market Form & Entry, Fire / Execution & Activation, Wind / External Field & Intelligence, Void / Long-Horizon Strategy
+- top-layer pass: verdict, strategic comparison, state feed, logic chain
+- evidence pass: signal-first library, Circle 1, Circle 2, appendix, selected commercial note
+- commercialization update: Project TKO - WIP Discussion Document - 20260402.pdf is a draft model document for subscriber-lift, SVOD/AVOD framing, and buyer-side valuation inputs
+- comparative valuation support: World with AI Fair Price Assessment is a scenario comparator for pricing and contingent consideration, not direct Ali proof
+- counsel path: legal-anchor/index.html, control memo, document status table, signed assignment evidence appendix
+
+## Supporting Hubs
+
+- [Appendix](appendix/index.html)
+- [Legal Anchor](legal-anchor/index.html)
+- [Supplemental Index](documents/supplemental/index.html)
+
+## Feedback
+
+- Human feedback channel: [a.w@apollon-holding.net](mailto:a.w@apollon-holding.net)
+- Prompt for reviewers: how it felt, what looked credible or weak, and what should be done better while evaluation is still live
+
+## Room Facts
+
+- Indexed documents: 85
+- Supplemental review items: 20
+- Canonical: 67
+- Duplicates: 11
+- Archive: 5
+- Need review: 1
+- Remove: 1
+
+## Legal Status
+
+- Grohe -> Walter: operative agreement plus payment proof and Swiss-law memo support
+- Walter -> Apollon: signed-but-needs-verification
+- Not yet: insurer-grade, distributor-grade, or closing-grade
+
+## Strategic Path Status
+
+- Current recommendation: pursue_with_conditions
+- Applies to: high_optimization_path
+- Why: the Saudi ecosystem path outperforms the baseline path on long-horizon value, but still depends on title hardening, explicit governance, and transparent go-to-market design

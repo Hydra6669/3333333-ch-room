@@ -1,0 +1,1091 @@
+﻿{
+    "packet_version":  "2026-04-01.top-layer.v1",
+    "summary":  {
+                    "title":  "Top-Layer Strategic Path Evaluation Model",
+                    "stable_thesis":  "The underlying thesis stays fixed: the Muhammad Ali package can be more than a one-off media event if it is routed into a Saudi-aligned platform, capability, and institutional path.",
+                    "comparison_question":  "Is the Saudi ecosystem path real, materially better than the baseline path, and worth active pursuit?",
+                    "primary_recommendation":  "pursue_with_conditions",
+                    "applies_to":  "high_optimization_path",
+                    "reasoning_mode":  "mixed_evidence_and_authored_architecture",
+                    "primary_case":  "integration",
+                    "primary_ring":  "void",
+                    "secondary_rings":  [
+                                            "water",
+                                            "earth"
+                                        ]
+                },
+    "base_thesis_layer":  {
+                              "stable_thesis":  "The underlying thesis stays fixed: the Muhammad Ali package can be more than a one-off media event if it is routed into a Saudi-aligned platform, capability, and institutional path.",
+                              "claims":  [
+                                             {
+                                                 "id":  "claim_flagship_anchor",
+                                                 "text":  "The Muhammad Ali package is a real flagship anchor, not only a rhetorical rights story."
+                                             },
+                                             {
+                                                 "id":  "claim_underoptimized_path",
+                                                 "text":  "The visible default path would underuse the asset as a narrower media or marketing exploitation play."
+                                             },
+                                             {
+                                                 "id":  "claim_saudi_ecosystem_path",
+                                                 "text":  "A Saudi ecosystem path could compound the same asset into platform, capability-building, and geopolitical relevance."
+                                             },
+                                             {
+                                                 "id":  "claim_bridge_architecture",
+                                                 "text":  "Highlight / Swiss-Saudi bridge logic can extend the thesis from one flagship into a longer-horizon Europe-MENA media architecture."
+                                             }
+                                         ],
+                              "assumptions":  [
+                                                  {
+                                                      "id":  "assumption_platform_appetite",
+                                                      "text":  "A serious buyer or partner actually wants the higher-optimization path rather than only a premium title event."
+                                                  },
+                                                  {
+                                                      "id":  "assumption_regulatory_engineering",
+                                                      "text":  "Saudi market-access, ownership-cap, and excluded-activity issues can be engineered cleanly enough for the strategy to survive diligence."
+                                                  },
+                                                  {
+                                                      "id":  "assumption_governance_legitimacy",
+                                                      "text":  "Governance, branding, and market entry can stay transparent enough to avoid foreign-capture or covert-influence blowback."
+                                                  },
+                                                  {
+                                                      "id":  "assumption_control_hardening",
+                                                      "text":  "The title stack can be hardened far enough that the strategic path is not blocked by the legal bottleneck."
+                                                  }
+                                              ],
+                              "dependencies":  [
+                                                   {
+                                                       "id":  "dependency_title_hardening",
+                                                       "text":  "Predecessor-chain and internal-transfer hardening remain the gating legal dependency."
+                                                   },
+                                                   {
+                                                       "id":  "dependency_saudi_market_context",
+                                                       "text":  "Saudi foreign-capital openness and regulatory constraints must be modeled as a top-layer context engine, not buried inside one workstream."
+                                                   },
+                                                   {
+                                                       "id":  "dependency_operating_model",
+                                                       "text":  "The path needs a real operating design: platform logic, governance, replatforming, and later integration architecture."
+                                                   },
+                                                   {
+                                                       "id":  "dependency_transparent_go_to_market",
+                                                       "text":  "Market-entry, wrapper-brand, and partnership tactics must remain transparent and legally clean."
+                                                   }
+                                               ],
+                              "blockers":  [
+                                               {
+                                                   "id":  "blocker_predecessor_chain",
+                                                   "text":  "The predecessor chain still limits how far the strategic thesis can be pushed externally."
+                                               },
+                                               {
+                                                   "id":  "blocker_transaction_readiness",
+                                                   "text":  "The strategy is more coherent than the current transaction package is clean."
+                                               },
+                                               {
+                                                   "id":  "blocker_flywheel_proof",
+                                                   "text":  "Platform and retention compounding still need stronger real-world proof than the current model stack provides."
+                                               },
+                                               {
+                                                   "id":  "blocker_reputational_overreach",
+                                                   "text":  "Any covert, manipulative, or influence-forward framing would damage legitimacy and make the strategy easier to reject."
+                                               }
+                                           ],
+                              "evaluator_questions":  [
+                                                          {
+                                                              "id":  "question_is_path_real",
+                                                              "text":  "Is the higher-optimization path materially real, or only a more elegant narrative?"
+                                                          },
+                                                          {
+                                                              "id":  "question_is_path_better_than_baseline",
+                                                              "text":  "Is it materially better than the baseline path, or merely more ambitious?"
+                                                          },
+                                                          {
+                                                              "id":  "question_is_path_executable",
+                                                              "text":  "Can it survive real legal, commercial, and political execution constraints?"
+                                                          },
+                                                          {
+                                                              "id":  "question_is_upside_worth_friction",
+                                                              "text":  "Is the long-horizon upside large enough to justify the extra friction and diligence cost?"
+                                                          }
+                                                      ],
+                              "primary_case":  "integration",
+                              "primary_ring":  "void",
+                              "secondary_rings":  [
+                                                      "earth",
+                                                      "water"
+                                                  ]
+                          },
+    "strategic_paths":  {
+                            "baseline_path":  {
+                                                  "id":  "baseline_path",
+                                                  "title":  "Baseline Path / under-optimized exploitation route",
+                                                  "summary":  "Treat the Ali package as a premium title, campaign, or limited media-event asset with lighter structural change and lower execution ambition.",
+                                                  "current_read":  "Viable, faster, and easier to explain - but materially under-optimized for 30-year Saudi ecosystem value.",
+                                                  "architect_note":  "This is the recognizable move. It can launch faster, but it spends the flagship as a campaign asset instead of using it as an architectural corridor.",
+                                                  "source_role":  "authored_thinking",
+                                                  "voice_mode":  "architect",
+                                                  "strengths":  [
+                                                                    "Lower immediate execution complexity and fewer moving parts.",
+                                                                    "Closer to a standard content / marketing / distribution play.",
+                                                                    "Requires less institutional redesign to begin testing market appetite."
+                                                                ],
+                                                  "limits":  [
+                                                                 "Leaves retention, ecosystem, and institutional compounding mostly untouched.",
+                                                                 "Risks burning a scarcity asset on a shorter-duration outcome.",
+                                                                 "Does not create the same bridge into platform, capital, or capability infrastructure."
+                                                             ],
+                                                  "primary_case":  "ali",
+                                                  "primary_ring":  "water",
+                                                  "secondary_rings":  [
+                                                                          "void"
+                                                                      ],
+                                                  "supporting_documents":  [
+                                                                               {
+                                                                                   "name":  "conversation_summary_comprehensive.xlsx",
+                                                                                   "display_title":  "Conversation Summary / Comprehensive",
+                                                                                   "href":  "documents/supplemental/conversation_summary_comprehensive.xlsx",
+                                                                                   "summary":  "Workbook summary of prior chat reasoning across ARC, Highlight, Swiss-Saudi bridge logic, AI replatforming, and transparent market-entry constraints",
+                                                                                   "artifact_summary":  "Authored workbook capturing bridge logic, operating redesign, wrapper questions, and strategic boundary conditions from the follow-up chat.",
+                                                                                   "primary_case":  "integration",
+                                                                                   "primary_circle":  "circle_3_commercialization_layer",
+                                                                                   "primary_ring":  "water",
+                                                                                   "secondary_rings":  [
+                                                                                                           "void"
+                                                                                                       ],
+                                                                                   "source_role":  "authored_thinking",
+                                                                                   "voice_mode":  "architect"
+                                                                               },
+                                                                               {
+                                                                                   "name":  "conversation_summary_valuepillar.xlsx",
+                                                                                   "display_title":  "Conversation Summary / Value Pillars",
+                                                                                   "href":  "documents/supplemental/conversation_summary_valuepillar.xlsx",
+                                                                                   "summary":  "Companion workbook translating the same follow-up chat into value pillars such as trusted corridor-building, modernization, transparent entry, and long-horizon positioning",
+                                                                                   "artifact_summary":  "Authored value-pillar companion translating the same chat into corridor, modernization, entry, and long-horizon strategic logic.",
+                                                                                   "primary_case":  "integration",
+                                                                                   "primary_circle":  "circle_3_commercialization_layer",
+                                                                                   "primary_ring":  "water",
+                                                                                   "secondary_rings":  [
+                                                                                                           "void"
+                                                                                                       ],
+                                                                                   "source_role":  "authored_thinking",
+                                                                                   "voice_mode":  "architect"
+                                                                               },
+                                                                               {
+                                                                                   "name":  "VANGUARD_Decision_Pack_March2026.pdf",
+                                                                                   "display_title":  "VANGUARD_Decision_Pack_March2026.pdf",
+                                                                                   "href":  "documents/VANGUARD_Decision_Pack_March2026.pdf",
+                                                                                   "summary":  "Decision pack summarizing the commercial case, pricing logic, and strategic routing posture.",
+                                                                                   "artifact_summary":  "Decision pack summarizing the commercial case, pricing logic, and strategic routing posture.",
+                                                                                   "primary_case":  "ali",
+                                                                                   "primary_circle":  "circle_3_commercialization_layer",
+                                                                                   "primary_ring":  "water",
+                                                                                   "secondary_rings":  [
+                                                                                                           "void"
+                                                                                                       ],
+                                                                                   "source_role":  "evidence",
+                                                                                   "voice_mode":  "neutral"
+                                                                               }
+                                                                           ]
+                                              },
+                            "high_optimization_path":  {
+                                                           "id":  "high_optimization_path",
+                                                           "title":  "High-Optimization Path / Saudi ecosystem strategy",
+                                                           "summary":  "Use the Ali package as a flagship node inside a longer-horizon Saudi platform, capability-building, bridge-asset, and institutional strategy rather than as a standalone title event.",
+                                                           "current_read":  "Potentially much more valuable than the baseline path, but only if control, governance, and market-access engineering are explicit and credible.",
+                                                           "architect_note":  "This is the architecture. The asset is the front door, not the finish line, and the real prize is platform, governance, and Swiss-Saudi corridor leverage over time.",
+                                                           "source_role":  "authored_thinking",
+                                                           "voice_mode":  "architect",
+                                                           "strengths":  [
+                                                                             "Converts one flagship into a platform and ecosystem entry point.",
+                                                                             "Supports margin compounding, retention depth, and later bridge-asset integration.",
+                                                                             "Maps directly onto Saudi strategic relevance instead of treating Saudi only as a buyer or campaign market."
+                                                                         ],
+                                                           "limits":  [
+                                                                          "Adds more dependencies, more governance burden, and more scrutiny.",
+                                                                          "Cannot outrun the existing title bottleneck.",
+                                                                          "Fails quickly if the platform or institutional appetite is only inferred rather than evidenced."
+                                                                      ],
+                                                           "primary_case":  "integration",
+                                                           "primary_ring":  "void",
+                                                           "secondary_rings":  [
+                                                                                   "water",
+                                                                                   "earth"
+                                                                               ],
+                                                           "supporting_documents":  [
+                                                                                        {
+                                                                                            "name":  "saudi_data_room_logic_map.xlsx",
+                                                                                            "display_title":  "Saudi Data Room Logic Map",
+                                                                                            "href":  "documents/supplemental/saudi_data_room_logic_map.xlsx",
+                                                                                            "summary":  "Logic-map workbook showing how Saudi foreign-capital openness, fear analysis, and time-horizon thinking should sit above acquisition, retention, expansion, and integration modules",
+                                                                                            "artifact_summary":  "Authored logic map showing how Saudi openness, fear analysis, and time-horizon reasoning should govern the later modules.",
+                                                                                            "primary_case":  "integration",
+                                                                                            "primary_circle":  "circle_4_ecosystem_layer",
+                                                                                            "primary_ring":  "wind",
+                                                                                            "secondary_rings":  [
+                                                                                                                    "void"
+                                                                                                                ],
+                                                                                            "source_role":  "authored_thinking",
+                                                                                            "voice_mode":  "architect"
+                                                                                        },
+                                                                                        {
+                                                                                            "name":  "deep-research-report.md",
+                                                                                            "display_title":  "Saudi Openness Context Memo",
+                                                                                            "href":  "documents/supplemental/deep-research-report.md",
+                                                                                            "summary":  "Official-source memo on Saudi foreign-capital openness, FDI, listed ownership, and regulatory constraints as of 2026-04-01",
+                                                                                            "artifact_summary":  "External-context memo on Saudi openness, FDI, ownership caps, and regulatory constraints, used to bound the strategic path with auditable facts.",
+                                                                                            "primary_case":  "integration",
+                                                                                            "primary_circle":  "circle_4_ecosystem_layer",
+                                                                                            "primary_ring":  "wind",
+                                                                                            "secondary_rings":  [
+                                                                                                                    "void"
+                                                                                                                ],
+                                                                                            "source_role":  "external_context",
+                                                                                            "voice_mode":  "neutral"
+                                                                                        },
+                                                                                        {
+                                                                                            "name":  "deep-research-rejjport.md",
+                                                                                            "display_title":  "Five Rings Strategic Architecture Note",
+                                                                                            "href":  "documents/supplemental/deep-research-rejjport.md",
+                                                                                            "summary":  "Authored Five Rings note describing staged sequencing, gating, page roles, and how the packet should be entered as a designed doctrine",
+                                                                                            "artifact_summary":  "Authored Five Rings doctrine note covering staged sequencing, gating, and site-reading choreography in the author\u0027s own architectural language.",
+                                                                                            "primary_case":  "integration",
+                                                                                            "primary_circle":  "circle_4_ecosystem_layer",
+                                                                                            "primary_ring":  "wind",
+                                                                                            "secondary_rings":  [
+                                                                                                                    "void"
+                                                                                                                ],
+                                                                                            "source_role":  "authored_thinking",
+                                                                                            "voice_mode":  "architect"
+                                                                                        },
+                                                                                        {
+                                                                                            "name":  "highlight_problem_theory_onepager.docx",
+                                                                                            "display_title":  "Highlight Problem Theory One-Pager",
+                                                                                            "href":  "documents/highlight_problem_theory_onepager.docx",
+                                                                                            "summary":  "Strategic note explaining why Highlight matters as a later capability-integration option rather than a current transaction.",
+                                                                                            "artifact_summary":  "Authored strategic note on why Highlight matters as later capability integration rather than as the immediate transaction center.",
+                                                                                            "primary_case":  "highlight",
+                                                                                            "primary_circle":  "circle_4_ecosystem_layer",
+                                                                                            "primary_ring":  "wind",
+                                                                                            "secondary_rings":  [
+                                                                                                                    "void"
+                                                                                                                ],
+                                                                                            "source_role":  "authored_thinking",
+                                                                                            "voice_mode":  "architect"
+                                                                                        },
+                                                                                        {
+                                                                                            "name":  "MBC_Comprehensive_3Phase_Model_v7_boardroom_summary.xlsx",
+                                                                                            "display_title":  "MBC_Comprehensive_3Phase_Model_v7_boardroom_summary.xlsx",
+                                                                                            "href":  "documents/MBC_Comprehensive_3Phase_Model_v7_boardroom_summary.xlsx",
+                                                                                            "summary":  "Boardroom-style model tying flagship access, retention, and later platform/fusion logic into one commercial view.",
+                                                                                            "artifact_summary":  "Boardroom-style model tying flagship access, retention, and later platform/fusion logic into one commercial view.",
+                                                                                            "primary_case":  "ali",
+                                                                                            "primary_circle":  "circle_3_commercialization_layer",
+                                                                                            "primary_ring":  "water",
+                                                                                            "secondary_rings":  [
+                                                                                                                    "void"
+                                                                                                                ],
+                                                                                            "source_role":  "evidence",
+                                                                                            "voice_mode":  "neutral"
+                                                                                        }
+                                                                                    ]
+                                                       }
+                        },
+    "comparison_scores":  [
+                              {
+                                  "id":  "asset_leverage",
+                                  "dimension":  "Asset leverage",
+                                  "baseline_read":  "Uses the Ali package mainly as a premium single-title or campaign asset.",
+                                  "strategic_read":  "Uses the same asset as a flagship node for later platform, partnership, and bridge-building logic.",
+                                  "leading_path":  "high_optimization_path",
+                                  "implication":  "The strategic path extracts more structural value if the flagship is real enough to carry the load.",
+                                  "primary_case":  "integration",
+                                  "primary_ring":  "void"
+                              },
+                              {
+                                  "id":  "platform_retention",
+                                  "dimension":  "Platform / retention leverage",
+                                  "baseline_read":  "Mostly event-driven and title-specific.",
+                                  "strategic_read":  "Built around shoulder programming, retention, and follow-on ecosystem pathways.",
+                                  "leading_path":  "high_optimization_path",
+                                  "implication":  "This is one of the clearest areas where the strategic path outperforms the baseline.",
+                                  "primary_case":  "integration",
+                                  "primary_ring":  "void"
+                              },
+                              {
+                                  "id":  "margin_compounding",
+                                  "dimension":  "Margin compounding potential",
+                                  "baseline_read":  "Moderate and short-cycle.",
+                                  "strategic_read":  "Potentially high, because value can sit in programming depth, platform positioning, and later institutional leverage.",
+                                  "leading_path":  "high_optimization_path",
+                                  "implication":  "The extra upside is real only if the ecosystem path is executable.",
+                                  "primary_case":  "integration",
+                                  "primary_ring":  "void"
+                              },
+                              {
+                                  "id":  "ecosystem_building",
+                                  "dimension":  "Ecosystem capability-building",
+                                  "baseline_read":  "Low; it monetizes more than it builds.",
+                                  "strategic_read":  "High; it aims to build media, platform, governance, and bridge infrastructure.",
+                                  "leading_path":  "high_optimization_path",
+                                  "implication":  "This is the main reason the strategic path exists at all.",
+                                  "primary_case":  "integration",
+                                  "primary_ring":  "void"
+                              },
+                              {
+                                  "id":  "saudi_relevance",
+                                  "dimension":  "Saudi strategic relevance",
+                                  "baseline_read":  "Adjacent to Saudi priorities, but not deeply integrated with them.",
+                                  "strategic_read":  "Directly tied to platform growth, legitimacy, capability-building, and long-horizon positioning.",
+                                  "leading_path":  "high_optimization_path",
+                                  "implication":  "If the thesis is geostrategic, the baseline path is not enough.",
+                                  "primary_case":  "integration",
+                                  "primary_ring":  "void"
+                              },
+                              {
+                                  "id":  "execution_friction",
+                                  "dimension":  "Execution friction",
+                                  "baseline_read":  "Lower friction because it asks less of the system.",
+                                  "strategic_read":  "Higher friction because it adds operating, regulatory, and narrative dependencies.",
+                                  "leading_path":  "baseline_path",
+                                  "implication":  "The strategic path should only win if the extra value clearly exceeds the extra complexity.",
+                                  "primary_case":  "integration",
+                                  "primary_ring":  "void"
+                              },
+                              {
+                                  "id":  "legal_fragility",
+                                  "dimension":  "Legal / control fragility",
+                                  "baseline_read":  "Still constrained, but simpler to stage around a weak title stack.",
+                                  "strategic_read":  "Inherits the same bottleneck and makes its consequences more material.",
+                                  "leading_path":  "baseline_path",
+                                  "implication":  "Control hardening is the main condition under which the strategic path becomes credible.",
+                                  "primary_case":  "integration",
+                                  "primary_ring":  "void"
+                              },
+                              {
+                                  "id":  "time_horizon",
+                                  "dimension":  "Time-horizon payoff",
+                                  "baseline_read":  "Front-loaded and narrower.",
+                                  "strategic_read":  "Long-duration and potentially more defensible over 10-30 years.",
+                                  "leading_path":  "high_optimization_path",
+                                  "implication":  "If the goal is next-quarter signal only, baseline may be enough; if the goal is long-horizon advantage, it is not.",
+                                  "primary_case":  "integration",
+                                  "primary_ring":  "void"
+                              },
+                              {
+                                  "id":  "assumption_load",
+                                  "dimension":  "Dependence on unproven assumptions",
+                                  "baseline_read":  "Moderate; fewer moving parts and fewer second-order claims.",
+                                  "strategic_read":  "High; the model depends on platform appetite, governance legitimacy, and bridge-asset follow-through.",
+                                  "leading_path":  "baseline_path",
+                                  "implication":  "The strategic path needs explicit falsifiers and conditions, not mood-language confidence.",
+                                  "primary_case":  "integration",
+                                  "primary_ring":  "void"
+                              }
+                          ],
+    "strategic_recommendation":  {
+                                     "recommendation":  "pursue_with_conditions",
+                                     "applies_to":  "high_optimization_path",
+                                     "summary":  "The high-optimization Saudi ecosystem path is the more valuable path forward, but it should only be advanced as a disciplined conditional strategy rather than as a fully proven conclusion.",
+                                     "why":  [
+                                                 "It clearly outperforms the baseline path on long-horizon platform, ecosystem, and Saudi strategic relevance.",
+                                                 "The new chat-derived material reinforces that the real opportunity is architectural and institutional, not just promotional.",
+                                                 "The same new material also tightens the rules: transparency, governance, and regulatory engineering are now non-optional."
+                                             ],
+                                     "conditions":  [
+                                                        "Title hardening must move far enough that the flagship can safely anchor a larger strategy.",
+                                                        "Saudi market-access, ownership-cap, and excluded-activity constraints must be modeled explicitly.",
+                                                        "Branding and market-entry tactics must remain transparent and legally clean.",
+                                                        "The platform / bridge / retention logic must be stress-tested as a strategic path, not assumed because it sounds better."
+                                                    ],
+                                     "why_not_baseline":  [
+                                                              "The baseline path is easier but leaves too much long-horizon value on the table.",
+                                                              "It does not explain why Saudi should matter beyond being a buyer or campaign venue.",
+                                                              "It is a sensible fallback path, not the best strategic path."
+                                                          ],
+                                     "downgrade_triggers":  [
+                                                                "If title hardening stalls, downgrade to request_more_evidence.",
+                                                                "If platform or institutional appetite looks weaker than the current model assumes, downgrade to request_more_evidence.",
+                                                                "If the path drifts into covert or influence-forward framing, treat that as a strategic blocker rather than a messaging tweak."
+                                                            ],
+                                     "required_next_checks":  [
+                                                                  "Validate that the higher-optimization path beats the baseline path on real operator economics, not only narrative elegance.",
+                                                                  "Pressure-test Swiss-Saudi bridge logic, control map, and governance stack against actual execution constraints.",
+                                                                  "Keep a transparent record of which new inputs strengthen or weaken the strategic path."
+                                                              ],
+                                     "primary_case":  "integration",
+                                     "primary_ring":  "void",
+                                     "secondary_rings":  [
+                                                             "water",
+                                                             "earth"
+                                                         ]
+                                 },
+    "state_updates":  [
+                          {
+                              "id":  "upd_top_layer_context_engine",
+                              "timestamp":  "2026-04-01T06:27:09+03:00",
+                              "title":  "Saudi market-access logic moved to the top layer",
+                              "label":  "state_change",
+                              "status":  "new",
+                              "path_impact":  "strategic_path",
+                              "effect":  "reframes",
+                              "source_context":  "internal synthesis",
+                              "source_role":  "authored_thinking",
+                              "voice_mode":  "architect",
+                              "summary":  "The Saudi data-room logic map explicitly places foreign-capital openness above acquisition, retention, expansion, and integration rather than inside any one downstream workstream.",
+                              "what_changed":  "Saudi openness is now treated as a context engine that frames every later decision, not as a supporting appendix.",
+                              "why_it_matters":  "This directly supports the new top-layer architecture and reduces the risk of reasoning from fragmented modules.",
+                              "changed_thesis_nodes":  [
+                                                           "dependency_saudi_market_context",
+                                                           "claim_saudi_ecosystem_path"
+                                                       ],
+                              "provenance_docs":  [
+                                                      "saudi_data_room_logic_map.xlsx"
+                                                  ],
+                              "related_update_ids":  [
+                                                         "upd_official_open_access_envelope"
+                                                     ],
+                              "relation":  "supports",
+                              "conflict_set_id":  "saudi_context",
+                              "primary_case":  "integration",
+                              "primary_ring":  "void",
+                              "secondary_rings":  [
+                                                      "water"
+                                                  ],
+                              "provenance":  [
+                                                 {
+                                                     "name":  "saudi_data_room_logic_map.xlsx",
+                                                     "display_title":  "Saudi Data Room Logic Map",
+                                                     "href":  "documents/supplemental/saudi_data_room_logic_map.xlsx",
+                                                     "summary":  "Logic-map workbook showing how Saudi foreign-capital openness, fear analysis, and time-horizon thinking should sit above acquisition, retention, expansion, and integration modules",
+                                                     "artifact_summary":  "Authored logic map showing how Saudi openness, fear analysis, and time-horizon reasoning should govern the later modules.",
+                                                     "primary_case":  "integration",
+                                                     "primary_circle":  "circle_4_ecosystem_layer",
+                                                     "primary_ring":  "wind",
+                                                     "secondary_rings":  [
+                                                                             "void"
+                                                                         ],
+                                                     "source_role":  "authored_thinking",
+                                                     "voice_mode":  "architect"
+                                                 }
+                                             ]
+                          },
+                          {
+                              "id":  "upd_official_open_access_envelope",
+                              "timestamp":  "2026-04-01T06:27:26+03:00",
+                              "title":  "Official Saudi openness data clarified the constraint envelope",
+                              "label":  "fact",
+                              "status":  "corroborated",
+                              "path_impact":  "both",
+                              "effect":  "clarifies",
+                              "source_context":  "document",
+                              "source_role":  "external_context",
+                              "voice_mode":  "neutral",
+                              "summary":  "The new research memo tightens the real constraint set: Saudi is open enough for foreign strategic moves, but ownership caps, excluded activities, and national-security gates must be engineered into the plan.",
+                              "what_changed":  "The path is no longer framed as generic optimism about Saudi; it is framed as broad access plus targeted caps and override mechanisms.",
+                              "why_it_matters":  "This is exactly the kind of structured context a stronger outside evaluator will expect before accepting a geostrategic media thesis.",
+                              "changed_thesis_nodes":  [
+                                                           "assumption_regulatory_engineering",
+                                                           "dependency_saudi_market_context"
+                                                       ],
+                              "provenance_docs":  [
+                                                      "deep-research-report.md",
+                                                      "saudi_data_room_logic_map.xlsx"
+                                                  ],
+                              "related_update_ids":  [
+                                                         "upd_top_layer_context_engine"
+                                                     ],
+                              "relation":  "supports",
+                              "conflict_set_id":  "saudi_context",
+                              "primary_case":  "integration",
+                              "primary_ring":  "void",
+                              "secondary_rings":  [
+                                                      "water"
+                                                  ],
+                              "provenance":  [
+                                                 {
+                                                     "name":  "deep-research-report.md",
+                                                     "display_title":  "Saudi Openness Context Memo",
+                                                     "href":  "documents/supplemental/deep-research-report.md",
+                                                     "summary":  "Official-source memo on Saudi foreign-capital openness, FDI, listed ownership, and regulatory constraints as of 2026-04-01",
+                                                     "artifact_summary":  "External-context memo on Saudi openness, FDI, ownership caps, and regulatory constraints, used to bound the strategic path with auditable facts.",
+                                                     "primary_case":  "integration",
+                                                     "primary_circle":  "circle_4_ecosystem_layer",
+                                                     "primary_ring":  "wind",
+                                                     "secondary_rings":  [
+                                                                             "void"
+                                                                         ],
+                                                     "source_role":  "external_context",
+                                                     "voice_mode":  "neutral"
+                                                 },
+                                                 {
+                                                     "name":  "saudi_data_room_logic_map.xlsx",
+                                                     "display_title":  "Saudi Data Room Logic Map",
+                                                     "href":  "documents/supplemental/saudi_data_room_logic_map.xlsx",
+                                                     "summary":  "Logic-map workbook showing how Saudi foreign-capital openness, fear analysis, and time-horizon thinking should sit above acquisition, retention, expansion, and integration modules",
+                                                     "artifact_summary":  "Authored logic map showing how Saudi openness, fear analysis, and time-horizon reasoning should govern the later modules.",
+                                                     "primary_case":  "integration",
+                                                     "primary_circle":  "circle_4_ecosystem_layer",
+                                                     "primary_ring":  "wind",
+                                                     "secondary_rings":  [
+                                                                             "void"
+                                                                         ],
+                                                     "source_role":  "authored_thinking",
+                                                     "voice_mode":  "architect"
+                                                 }
+                                             ]
+                          },
+                          {
+                              "id":  "upd_scarcity_positioning_strengthened",
+                              "timestamp":  "2026-04-01T06:27:09+03:00",
+                              "title":  "Saudi under-penetration strengthened the scarcity reading",
+                              "label":  "inference",
+                              "status":  "corroborated",
+                              "path_impact":  "strategic_path",
+                              "effect":  "strengthens",
+                              "source_context":  "internal synthesis",
+                              "source_role":  "authored_thinking",
+                              "voice_mode":  "architect",
+                              "summary":  "The logic register now treats Saudi as open enough to absorb strategic foreign participation while still under-penetrated enough that institutional builders can matter.",
+                              "what_changed":  "The strategic path is no longer only a high-upside story; it is also a scarcity-positioning story.",
+                              "why_it_matters":  "This improves the argument that waiting or choosing the narrower baseline path risks leaving the institution-building upside to better-positioned entrants.",
+                              "changed_thesis_nodes":  [
+                                                           "claim_saudi_ecosystem_path",
+                                                           "question_is_upside_worth_friction"
+                                                       ],
+                              "provenance_docs":  [
+                                                      "saudi_data_room_logic_map.xlsx",
+                                                      "deep-research-report.md"
+                                                  ],
+                              "related_update_ids":  [
+                                                         "upd_official_open_access_envelope"
+                                                     ],
+                              "relation":  "supports",
+                              "conflict_set_id":  "saudi_context",
+                              "primary_case":  "integration",
+                              "primary_ring":  "void",
+                              "secondary_rings":  [
+                                                      "water"
+                                                  ],
+                              "provenance":  [
+                                                 {
+                                                     "name":  "saudi_data_room_logic_map.xlsx",
+                                                     "display_title":  "Saudi Data Room Logic Map",
+                                                     "href":  "documents/supplemental/saudi_data_room_logic_map.xlsx",
+                                                     "summary":  "Logic-map workbook showing how Saudi foreign-capital openness, fear analysis, and time-horizon thinking should sit above acquisition, retention, expansion, and integration modules",
+                                                     "artifact_summary":  "Authored logic map showing how Saudi openness, fear analysis, and time-horizon reasoning should govern the later modules.",
+                                                     "primary_case":  "integration",
+                                                     "primary_circle":  "circle_4_ecosystem_layer",
+                                                     "primary_ring":  "wind",
+                                                     "secondary_rings":  [
+                                                                             "void"
+                                                                         ],
+                                                     "source_role":  "authored_thinking",
+                                                     "voice_mode":  "architect"
+                                                 },
+                                                 {
+                                                     "name":  "deep-research-report.md",
+                                                     "display_title":  "Saudi Openness Context Memo",
+                                                     "href":  "documents/supplemental/deep-research-report.md",
+                                                     "summary":  "Official-source memo on Saudi foreign-capital openness, FDI, listed ownership, and regulatory constraints as of 2026-04-01",
+                                                     "artifact_summary":  "External-context memo on Saudi openness, FDI, ownership caps, and regulatory constraints, used to bound the strategic path with auditable facts.",
+                                                     "primary_case":  "integration",
+                                                     "primary_circle":  "circle_4_ecosystem_layer",
+                                                     "primary_ring":  "wind",
+                                                     "secondary_rings":  [
+                                                                             "void"
+                                                                         ],
+                                                     "source_role":  "external_context",
+                                                     "voice_mode":  "neutral"
+                                                 }
+                                             ]
+                          },
+                          {
+                              "id":  "upd_swiss_saudi_bridge_logic",
+                              "timestamp":  "2026-04-01T06:27:52+03:00",
+                              "title":  "Swiss-Saudi bridge logic strengthened the long-horizon path",
+                              "label":  "inference",
+                              "status":  "needs_review",
+                              "path_impact":  "strategic_path",
+                              "effect":  "strengthens",
+                              "source_context":  "chat",
+                              "source_role":  "authored_thinking",
+                              "voice_mode":  "architect",
+                              "summary":  "The follow-up chat moves the thesis beyond a single project into a Swiss-anchor / Saudi-growth bridge with later capital-market and institutional optionality.",
+                              "what_changed":  "The strategic path now includes a credible board-level corridor story, not only a content-distribution story.",
+                              "why_it_matters":  "This is one of the strongest reasons the high-optimization path can be materially better than the baseline path if it survives diligence.",
+                              "changed_thesis_nodes":  [
+                                                           "claim_bridge_architecture",
+                                                           "dependency_operating_model"
+                                                       ],
+                              "provenance_docs":  [
+                                                      "conversation_summary_comprehensive.xlsx",
+                                                      "conversation_summary_valuepillar.xlsx"
+                                                  ],
+                              "related_update_ids":  [
+                                                         "upd_replatforming_architecture",
+                                                         "upd_five_rings_doctrine_promoted"
+                                                     ],
+                              "relation":  "supports",
+                              "conflict_set_id":  "authored_architecture",
+                              "primary_case":  "integration",
+                              "primary_ring":  "void",
+                              "secondary_rings":  [
+                                                      "water"
+                                                  ],
+                              "provenance":  [
+                                                 {
+                                                     "name":  "conversation_summary_comprehensive.xlsx",
+                                                     "display_title":  "Conversation Summary / Comprehensive",
+                                                     "href":  "documents/supplemental/conversation_summary_comprehensive.xlsx",
+                                                     "summary":  "Workbook summary of prior chat reasoning across ARC, Highlight, Swiss-Saudi bridge logic, AI replatforming, and transparent market-entry constraints",
+                                                     "artifact_summary":  "Authored workbook capturing bridge logic, operating redesign, wrapper questions, and strategic boundary conditions from the follow-up chat.",
+                                                     "primary_case":  "integration",
+                                                     "primary_circle":  "circle_3_commercialization_layer",
+                                                     "primary_ring":  "water",
+                                                     "secondary_rings":  [
+                                                                             "void"
+                                                                         ],
+                                                     "source_role":  "authored_thinking",
+                                                     "voice_mode":  "architect"
+                                                 },
+                                                 {
+                                                     "name":  "conversation_summary_valuepillar.xlsx",
+                                                     "display_title":  "Conversation Summary / Value Pillars",
+                                                     "href":  "documents/supplemental/conversation_summary_valuepillar.xlsx",
+                                                     "summary":  "Companion workbook translating the same follow-up chat into value pillars such as trusted corridor-building, modernization, transparent entry, and long-horizon positioning",
+                                                     "artifact_summary":  "Authored value-pillar companion translating the same chat into corridor, modernization, entry, and long-horizon strategic logic.",
+                                                     "primary_case":  "integration",
+                                                     "primary_circle":  "circle_3_commercialization_layer",
+                                                     "primary_ring":  "water",
+                                                     "secondary_rings":  [
+                                                                             "void"
+                                                                         ],
+                                                     "source_role":  "authored_thinking",
+                                                     "voice_mode":  "architect"
+                                                 }
+                                             ]
+                          },
+                          {
+                              "id":  "upd_replatforming_architecture",
+                              "timestamp":  "2026-04-01T06:27:52+03:00",
+                              "title":  "The strategy became an operating redesign, not only a deal idea",
+                              "label":  "claim",
+                              "status":  "needs_review",
+                              "path_impact":  "strategic_path",
+                              "effect":  "reframes",
+                              "source_context":  "chat",
+                              "source_role":  "authored_thinking",
+                              "voice_mode":  "architect",
+                              "summary":  "The chat summaries add EventCo / MediaCo / GrowthCo separation plus AI-native replatforming as part of the path itself.",
+                              "what_changed":  "The strategic path now asks for organizational redesign and system modernization, not just asset acquisition or distribution.",
+                              "why_it_matters":  "This increases strategic upside but also increases execution burden, so it needs explicit inclusion in the comparison model.",
+                              "changed_thesis_nodes":  [
+                                                           "dependency_operating_model",
+                                                           "question_is_path_executable"
+                                                       ],
+                              "provenance_docs":  [
+                                                      "conversation_summary_comprehensive.xlsx",
+                                                      "conversation_summary_valuepillar.xlsx"
+                                                  ],
+                              "related_update_ids":  [
+                                                         "upd_swiss_saudi_bridge_logic",
+                                                         "upd_five_rings_doctrine_promoted"
+                                                     ],
+                              "relation":  "supports",
+                              "conflict_set_id":  "authored_architecture",
+                              "primary_case":  "integration",
+                              "primary_ring":  "void",
+                              "secondary_rings":  [
+                                                      "water"
+                                                  ],
+                              "provenance":  [
+                                                 {
+                                                     "name":  "conversation_summary_comprehensive.xlsx",
+                                                     "display_title":  "Conversation Summary / Comprehensive",
+                                                     "href":  "documents/supplemental/conversation_summary_comprehensive.xlsx",
+                                                     "summary":  "Workbook summary of prior chat reasoning across ARC, Highlight, Swiss-Saudi bridge logic, AI replatforming, and transparent market-entry constraints",
+                                                     "artifact_summary":  "Authored workbook capturing bridge logic, operating redesign, wrapper questions, and strategic boundary conditions from the follow-up chat.",
+                                                     "primary_case":  "integration",
+                                                     "primary_circle":  "circle_3_commercialization_layer",
+                                                     "primary_ring":  "water",
+                                                     "secondary_rings":  [
+                                                                             "void"
+                                                                         ],
+                                                     "source_role":  "authored_thinking",
+                                                     "voice_mode":  "architect"
+                                                 },
+                                                 {
+                                                     "name":  "conversation_summary_valuepillar.xlsx",
+                                                     "display_title":  "Conversation Summary / Value Pillars",
+                                                     "href":  "documents/supplemental/conversation_summary_valuepillar.xlsx",
+                                                     "summary":  "Companion workbook translating the same follow-up chat into value pillars such as trusted corridor-building, modernization, transparent entry, and long-horizon positioning",
+                                                     "artifact_summary":  "Authored value-pillar companion translating the same chat into corridor, modernization, entry, and long-horizon strategic logic.",
+                                                     "primary_case":  "integration",
+                                                     "primary_circle":  "circle_3_commercialization_layer",
+                                                     "primary_ring":  "water",
+                                                     "secondary_rings":  [
+                                                                             "void"
+                                                                         ],
+                                                     "source_role":  "authored_thinking",
+                                                     "voice_mode":  "architect"
+                                                 }
+                                             ]
+                          },
+                          {
+                              "id":  "upd_transparency_required_for_distribution",
+                              "timestamp":  "2026-04-01T06:27:52+03:00",
+                              "title":  "Deceptive wrapper tactics were explicitly ruled out",
+                              "label":  "counterpoint",
+                              "status":  "corroborated",
+                              "path_impact":  "baseline_path",
+                              "effect":  "weakens",
+                              "source_context":  "chat",
+                              "source_role":  "authored_thinking",
+                              "voice_mode":  "architect",
+                              "summary":  "The follow-up chat rejected hidden sign-up flows or disguised streaming wrappers and required transparent co-branding and explicit disclosure.",
+                              "what_changed":  "Any shortcut path that depends on obscured routing or dark-pattern conversion is now out of bounds.",
+                              "why_it_matters":  "This weakens the easiest version of the baseline path and makes transparent go-to-market design a real dependency for both paths.",
+                              "changed_thesis_nodes":  [
+                                                           "dependency_transparent_go_to_market",
+                                                           "blocker_reputational_overreach"
+                                                       ],
+                              "provenance_docs":  [
+                                                      "conversation_summary_comprehensive.xlsx",
+                                                      "conversation_summary_valuepillar.xlsx"
+                                                  ],
+                              "related_update_ids":  [
+                                                         "upd_us_wrapper_contested",
+                                                         "upd_conversion_funnel_demoted_to_authored_artifact"
+                                                     ],
+                              "relation":  "contests",
+                              "conflict_set_id":  "wrapper_entry",
+                              "primary_case":  "integration",
+                              "primary_ring":  "water",
+                              "secondary_rings":  [
+                                                      "void"
+                                                  ],
+                              "provenance":  [
+                                                 {
+                                                     "name":  "conversation_summary_comprehensive.xlsx",
+                                                     "display_title":  "Conversation Summary / Comprehensive",
+                                                     "href":  "documents/supplemental/conversation_summary_comprehensive.xlsx",
+                                                     "summary":  "Workbook summary of prior chat reasoning across ARC, Highlight, Swiss-Saudi bridge logic, AI replatforming, and transparent market-entry constraints",
+                                                     "artifact_summary":  "Authored workbook capturing bridge logic, operating redesign, wrapper questions, and strategic boundary conditions from the follow-up chat.",
+                                                     "primary_case":  "integration",
+                                                     "primary_circle":  "circle_3_commercialization_layer",
+                                                     "primary_ring":  "water",
+                                                     "secondary_rings":  [
+                                                                             "void"
+                                                                         ],
+                                                     "source_role":  "authored_thinking",
+                                                     "voice_mode":  "architect"
+                                                 },
+                                                 {
+                                                     "name":  "conversation_summary_valuepillar.xlsx",
+                                                     "display_title":  "Conversation Summary / Value Pillars",
+                                                     "href":  "documents/supplemental/conversation_summary_valuepillar.xlsx",
+                                                     "summary":  "Companion workbook translating the same follow-up chat into value pillars such as trusted corridor-building, modernization, transparent entry, and long-horizon positioning",
+                                                     "artifact_summary":  "Authored value-pillar companion translating the same chat into corridor, modernization, entry, and long-horizon strategic logic.",
+                                                     "primary_case":  "integration",
+                                                     "primary_circle":  "circle_3_commercialization_layer",
+                                                     "primary_ring":  "water",
+                                                     "secondary_rings":  [
+                                                                             "void"
+                                                                         ],
+                                                     "source_role":  "authored_thinking",
+                                                     "voice_mode":  "architect"
+                                                 }
+                                             ]
+                          },
+                          {
+                              "id":  "upd_us_wrapper_contested",
+                              "timestamp":  "2026-04-01T06:27:52+03:00",
+                              "title":  "US wrapper-brand entry remains contested rather than settled",
+                              "label":  "open_question",
+                              "status":  "contested",
+                              "path_impact":  "baseline_path",
+                              "effect":  "clarifies",
+                              "source_context":  "chat",
+                              "source_role":  "authored_thinking",
+                              "voice_mode":  "architect",
+                              "summary":  "A U.S.-friendly wrapper brand could help distribution, but political adjacency, trademark risk, and audience narrowing make it a contested tactic rather than an accepted move.",
+                              "what_changed":  "The system now records this as a bounded open question instead of quietly treating it as a solved distribution answer.",
+                              "why_it_matters":  "This satisfies the rule that conflicting follow-up inputs must remain visible as conflict, not silently collapse into one false certainty.",
+                              "changed_thesis_nodes":  [
+                                                           "dependency_transparent_go_to_market",
+                                                           "question_is_path_executable"
+                                                       ],
+                              "provenance_docs":  [
+                                                      "conversation_summary_comprehensive.xlsx",
+                                                      "conversation_summary_valuepillar.xlsx"
+                                                  ],
+                              "related_update_ids":  [
+                                                         "upd_transparency_required_for_distribution"
+                                                     ],
+                              "relation":  "contests",
+                              "conflict_set_id":  "wrapper_entry",
+                              "primary_case":  "integration",
+                              "primary_ring":  "water",
+                              "secondary_rings":  [
+                                                      "void"
+                                                  ],
+                              "provenance":  [
+                                                 {
+                                                     "name":  "conversation_summary_comprehensive.xlsx",
+                                                     "display_title":  "Conversation Summary / Comprehensive",
+                                                     "href":  "documents/supplemental/conversation_summary_comprehensive.xlsx",
+                                                     "summary":  "Workbook summary of prior chat reasoning across ARC, Highlight, Swiss-Saudi bridge logic, AI replatforming, and transparent market-entry constraints",
+                                                     "artifact_summary":  "Authored workbook capturing bridge logic, operating redesign, wrapper questions, and strategic boundary conditions from the follow-up chat.",
+                                                     "primary_case":  "integration",
+                                                     "primary_circle":  "circle_3_commercialization_layer",
+                                                     "primary_ring":  "water",
+                                                     "secondary_rings":  [
+                                                                             "void"
+                                                                         ],
+                                                     "source_role":  "authored_thinking",
+                                                     "voice_mode":  "architect"
+                                                 },
+                                                 {
+                                                     "name":  "conversation_summary_valuepillar.xlsx",
+                                                     "display_title":  "Conversation Summary / Value Pillars",
+                                                     "href":  "documents/supplemental/conversation_summary_valuepillar.xlsx",
+                                                     "summary":  "Companion workbook translating the same follow-up chat into value pillars such as trusted corridor-building, modernization, transparent entry, and long-horizon positioning",
+                                                     "artifact_summary":  "Authored value-pillar companion translating the same chat into corridor, modernization, entry, and long-horizon strategic logic.",
+                                                     "primary_case":  "integration",
+                                                     "primary_circle":  "circle_3_commercialization_layer",
+                                                     "primary_ring":  "water",
+                                                     "secondary_rings":  [
+                                                                             "void"
+                                                                         ],
+                                                     "source_role":  "authored_thinking",
+                                                     "voice_mode":  "architect"
+                                                 }
+                                             ]
+                          },
+                          {
+                              "id":  "upd_no_covert_influence_framing",
+                              "timestamp":  "2026-04-01T06:27:52+03:00",
+                              "title":  "Covert hearts-and-minds framing became a strategic blocker",
+                              "label":  "blocker",
+                              "status":  "corroborated",
+                              "path_impact":  "both",
+                              "effect":  "clarifies",
+                              "source_context":  "chat",
+                              "source_role":  "authored_thinking",
+                              "voice_mode":  "architect",
+                              "summary":  "The chat now draws a hard line against covert political-influence framing and redirects the thesis toward transparent cultural translation and lawful partnership.",
+                              "what_changed":  "Geostrategy remains part of the thesis, but covert influence does not; that boundary is now explicit.",
+                              "why_it_matters":  "A stronger external evaluator is likely to punish any strategy that depends on hidden persuasion or reputationally toxic framing.",
+                              "changed_thesis_nodes":  [
+                                                           "assumption_governance_legitimacy",
+                                                           "blocker_reputational_overreach"
+                                                       ],
+                              "provenance_docs":  [
+                                                      "conversation_summary_comprehensive.xlsx",
+                                                      "conversation_summary_valuepillar.xlsx"
+                                                  ],
+                              "related_update_ids":  [
+                                                         "upd_transparency_required_for_distribution"
+                                                     ],
+                              "relation":  "supports",
+                              "conflict_set_id":  "legitimacy_boundary",
+                              "primary_case":  "integration",
+                              "primary_ring":  "void",
+                              "secondary_rings":  [
+                                                      "water"
+                                                  ],
+                              "provenance":  [
+                                                 {
+                                                     "name":  "conversation_summary_comprehensive.xlsx",
+                                                     "display_title":  "Conversation Summary / Comprehensive",
+                                                     "href":  "documents/supplemental/conversation_summary_comprehensive.xlsx",
+                                                     "summary":  "Workbook summary of prior chat reasoning across ARC, Highlight, Swiss-Saudi bridge logic, AI replatforming, and transparent market-entry constraints",
+                                                     "artifact_summary":  "Authored workbook capturing bridge logic, operating redesign, wrapper questions, and strategic boundary conditions from the follow-up chat.",
+                                                     "primary_case":  "integration",
+                                                     "primary_circle":  "circle_3_commercialization_layer",
+                                                     "primary_ring":  "water",
+                                                     "secondary_rings":  [
+                                                                             "void"
+                                                                         ],
+                                                     "source_role":  "authored_thinking",
+                                                     "voice_mode":  "architect"
+                                                 },
+                                                 {
+                                                     "name":  "conversation_summary_valuepillar.xlsx",
+                                                     "display_title":  "Conversation Summary / Value Pillars",
+                                                     "href":  "documents/supplemental/conversation_summary_valuepillar.xlsx",
+                                                     "summary":  "Companion workbook translating the same follow-up chat into value pillars such as trusted corridor-building, modernization, transparent entry, and long-horizon positioning",
+                                                     "artifact_summary":  "Authored value-pillar companion translating the same chat into corridor, modernization, entry, and long-horizon strategic logic.",
+                                                     "primary_case":  "integration",
+                                                     "primary_circle":  "circle_3_commercialization_layer",
+                                                     "primary_ring":  "water",
+                                                     "secondary_rings":  [
+                                                                             "void"
+                                                                         ],
+                                                     "source_role":  "authored_thinking",
+                                                     "voice_mode":  "architect"
+                                                 }
+                                             ]
+                          },
+                          {
+                              "id":  "upd_five_rings_doctrine_promoted",
+                              "timestamp":  "2026-04-01T08:26:26+03:00",
+                              "title":  "Five Rings doctrine became the visible entrance to the packet",
+                              "label":  "claim",
+                              "status":  "externalized",
+                              "path_impact":  "both",
+                              "effect":  "reframes",
+                              "source_context":  "document",
+                              "source_role":  "authored_thinking",
+                              "voice_mode":  "architect",
+                              "summary":  "The Five Rings note makes the reading order explicit: foundation first, market form second, execution third, outside field fourth, and long-horizon doctrine last.",
+                              "what_changed":  "The packet now treats Five Rings as the front-door doctrine for entering the case rather than as background thinking off to the side.",
+                              "why_it_matters":  "This preserves the author\u0027s sequencing logic in the main path and makes the strategic architecture legible before the evaluator touches the deeper console.",
+                              "changed_thesis_nodes":  [
+                                                           "dependency_operating_model",
+                                                           "question_is_path_real"
+                                                       ],
+                              "provenance_docs":  [
+                                                      "deep-research-rejjport.md"
+                                                  ],
+                              "related_update_ids":  [
+                                                         "upd_swiss_saudi_bridge_logic",
+                                                         "upd_replatforming_architecture"
+                                                     ],
+                              "relation":  "supports",
+                              "conflict_set_id":  "authored_architecture",
+                              "primary_case":  "integration",
+                              "primary_ring":  "void",
+                              "secondary_rings":  [
+                                                      "water"
+                                                  ],
+                              "provenance":  [
+                                                 {
+                                                     "name":  "deep-research-rejjport.md",
+                                                     "display_title":  "Five Rings Strategic Architecture Note",
+                                                     "href":  "documents/supplemental/deep-research-rejjport.md",
+                                                     "summary":  "Authored Five Rings note describing staged sequencing, gating, page roles, and how the packet should be entered as a designed doctrine",
+                                                     "artifact_summary":  "Authored Five Rings doctrine note covering staged sequencing, gating, and site-reading choreography in the author\u0027s own architectural language.",
+                                                     "primary_case":  "integration",
+                                                     "primary_circle":  "circle_4_ecosystem_layer",
+                                                     "primary_ring":  "wind",
+                                                     "secondary_rings":  [
+                                                                             "void"
+                                                                         ],
+                                                     "source_role":  "authored_thinking",
+                                                     "voice_mode":  "architect"
+                                                 }
+                                             ]
+                          },
+                          {
+                              "id":  "upd_conversion_funnel_demoted_to_authored_artifact",
+                              "timestamp":  "2026-04-01T08:27:10+03:00",
+                              "title":  "Conversion-funnel mechanics stayed visible, but as authored thinking rather than operating instruction",
+                              "label":  "state_change",
+                              "status":  "superseded",
+                              "path_impact":  "both",
+                              "effect":  "clarifies",
+                              "source_context":  "internal synthesis",
+                              "source_role":  "authored_thinking",
+                              "voice_mode":  "architect",
+                              "summary":  "The Five Rings note preserved signup, gating, and CTA instincts, but those mechanics are now carried as authored architecture history rather than as the evaluator-facing operating brief.",
+                              "what_changed":  "The packet keeps the original funnel logic visible without letting it silently dictate the current room behavior.",
+                              "why_it_matters":  "Jerry still sees the raw thinking, but the site no longer confuses authored strategic sequencing with live persuasion mechanics.",
+                              "changed_thesis_nodes":  [
+                                                           "dependency_transparent_go_to_market",
+                                                           "blocker_reputational_overreach"
+                                                       ],
+                              "provenance_docs":  [
+                                                      "deep-research-rejjport.md",
+                                                      "conversation_summary_comprehensive.xlsx"
+                                                  ],
+                              "related_update_ids":  [
+                                                         "upd_transparency_required_for_distribution",
+                                                         "upd_five_rings_doctrine_promoted"
+                                                     ],
+                              "relation":  "supersedes",
+                              "conflict_set_id":  "five_rings_funnel",
+                              "primary_case":  "integration",
+                              "primary_ring":  "void",
+                              "secondary_rings":  [
+                                                      "water"
+                                                  ],
+                              "provenance":  [
+                                                 {
+                                                     "name":  "deep-research-rejjport.md",
+                                                     "display_title":  "Five Rings Strategic Architecture Note",
+                                                     "href":  "documents/supplemental/deep-research-rejjport.md",
+                                                     "summary":  "Authored Five Rings note describing staged sequencing, gating, page roles, and how the packet should be entered as a designed doctrine",
+                                                     "artifact_summary":  "Authored Five Rings doctrine note covering staged sequencing, gating, and site-reading choreography in the author\u0027s own architectural language.",
+                                                     "primary_case":  "integration",
+                                                     "primary_circle":  "circle_4_ecosystem_layer",
+                                                     "primary_ring":  "wind",
+                                                     "secondary_rings":  [
+                                                                             "void"
+                                                                         ],
+                                                     "source_role":  "authored_thinking",
+                                                     "voice_mode":  "architect"
+                                                 },
+                                                 {
+                                                     "name":  "conversation_summary_comprehensive.xlsx",
+                                                     "display_title":  "Conversation Summary / Comprehensive",
+                                                     "href":  "documents/supplemental/conversation_summary_comprehensive.xlsx",
+                                                     "summary":  "Workbook summary of prior chat reasoning across ARC, Highlight, Swiss-Saudi bridge logic, AI replatforming, and transparent market-entry constraints",
+                                                     "artifact_summary":  "Authored workbook capturing bridge logic, operating redesign, wrapper questions, and strategic boundary conditions from the follow-up chat.",
+                                                     "primary_case":  "integration",
+                                                     "primary_circle":  "circle_3_commercialization_layer",
+                                                     "primary_ring":  "water",
+                                                     "secondary_rings":  [
+                                                                             "void"
+                                                                         ],
+                                                     "source_role":  "authored_thinking",
+                                                     "voice_mode":  "architect"
+                                                 }
+                                             ]
+                          }
+                      ],
+    "entry_points":  {
+                         "review_console":  "index.html",
+                         "signal_first_library":  "library.html?mode=signal",
+                         "five_rings_map":  "five-rings-map.json",
+                         "supplemental_index":  "documents/supplemental/index.html",
+                         "supplemental_index_json":  "documents/supplemental/index.json",
+                         "appendix":  "appendix/index.html",
+                         "legal_anchor":  "legal-anchor/index.html"
+                     },
+    "ring_glossary":  [
+                          {
+                              "id":  "earth",
+                              "title":  "Earth",
+                              "professional_equivalent":  "Foundation \u0026 Control",
+                              "display_title":  "Earth / Foundation \u0026 Control",
+                              "one_sentence_meaning":  "Foundation, control, canonical truth, legal base, and core structure."
+                          },
+                          {
+                              "id":  "water",
+                              "title":  "Water",
+                              "professional_equivalent":  "Market Form \u0026 Entry",
+                              "display_title":  "Water / Market Form \u0026 Entry",
+                              "one_sentence_meaning":  "Market form, wrappers, regional presentation, entry surfaces, and user-facing structure."
+                          },
+                          {
+                              "id":  "fire",
+                              "title":  "Fire",
+                              "professional_equivalent":  "Execution \u0026 Activation",
+                              "display_title":  "Fire / Execution \u0026 Activation",
+                              "one_sentence_meaning":  "Execution, launch, activation, conversion, events, and timing under pressure."
+                          },
+                          {
+                              "id":  "wind",
+                              "title":  "Wind",
+                              "professional_equivalent":  "External Field \u0026 Intelligence",
+                              "display_title":  "Wind / External Field \u0026 Intelligence",
+                              "one_sentence_meaning":  "Outside field, intelligence, regulation, competitors, market reading, and capability mapping."
+                          },
+                          {
+                              "id":  "void",
+                              "title":  "Void",
+                              "professional_equivalent":  "Long-Horizon Strategy",
+                              "display_title":  "Void / Long-Horizon Strategy",
+                              "one_sentence_meaning":  "Long-horizon doctrine, normalization, investor imagination, corridor logic, and strategic meaning."
+                          }
+                      ]
+}

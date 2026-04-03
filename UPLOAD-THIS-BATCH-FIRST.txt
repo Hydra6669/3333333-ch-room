@@ -1,0 +1,10 @@
+﻿Upload all three batches into the SAME web root, one after the other.
+
+Do not rename files.
+Do not delete files from earlier batches.
+If the host asks to overwrite duplicate folders, allow merge/overwrite.
+
+Order:
+1. BATCH-1-CORE
+2. BATCH-2-DOCS-A
+3. BATCH-3-DOCS-B

@@ -1,0 +1,463 @@
+{
+    "packet_version":  "2026-04-01.five-rings.v1",
+    "reasoning_mode":  "mixed_evidence_and_authored_architecture",
+    "hierarchy":  {
+                      "cases":  "canonical source of truth for the strategic objects",
+                      "circles":  "evidence and operating-layer classification",
+                      "rings":  "visible strategic navigation and doctrine layer",
+                      "site_shape":  "rings_over_circles"
+                  },
+    "cases":  [
+                  {
+                      "id":  "ali",
+                      "display":  "Crown Jewel Flagship",
+                      "full":  "Muhammad Ali Crown Jewel / U.S. Entry Flagship"
+                  },
+                  {
+                      "id":  "highlight",
+                      "display":  "European Capability Stack",
+                      "full":  "Highlight European Capability Stack / Swiss Anchor Layer"
+                  },
+                  {
+                      "id":  "integration",
+                      "display":  "3Co Bridge Architecture",
+                      "full":  "3Co Ecosystem / Swiss-Saudi Investor Visibility Bridge"
+                  }
+              ],
+    "rings":  [
+                  {
+                      "id":  "earth",
+                      "title":  "Earth",
+                      "definition":  "Foundation, control, canonical truth, legal base, and core structure.",
+                      "why_it_matters":  "This ring defines what is real enough to build on and what cannot be solved with presentation alone.",
+                      "linked_circles":  [
+                                             {
+                                                 "id":  "circle_0_core_asset",
+                                                 "title":  "Circle 0 Core Asset",
+                                                 "question":  "What exactly exists as the flagship creative object?"
+                                             },
+                                             {
+                                                 "id":  "circle_1_control_layer",
+                                                 "title":  "Circle 1 Control Layer",
+                                                 "question":  "Is the rights stack usable, defensible, transferable, and financeable?"
+                                             }
+                                         ],
+                      "dominant_cases":  [
+                                             {
+                                                 "id":  "ali",
+                                                 "display":  "Crown Jewel Flagship",
+                                                 "full":  "Muhammad Ali Crown Jewel / U.S. Entry Flagship"
+                                             },
+                                             {
+                                                 "id":  "integration",
+                                                 "display":  "3Co Bridge Architecture",
+                                                 "full":  "3Co Ecosystem / Swiss-Saudi Investor Visibility Bridge"
+                                             }
+                                         ],
+                      "featured_documents":  [
+                                                 {
+                                                     "name":  "ONE_PAGER_ENG (1).pdf",
+                                                     "display_title":  "ONE_PAGER_ENG (1).pdf",
+                                                     "href":  "documents/ONE_PAGER_ENG%20%281%29.pdf",
+                                                     "summary":  "English one-page summary of the flagship asset, its scarcity value, and the strategic framing for external review.",
+                                                     "artifact_summary":  "English one-page summary of the flagship asset, its scarcity value, and the strategic framing for external review.",
+                                                     "primary_case":  "ali",
+                                                     "primary_circle":  "circle_0_core_asset",
+                                                     "primary_ring":  "earth",
+                                                     "secondary_rings":  [
+                                                                             "fire"
+                                                                         ],
+                                                     "source_role":  "evidence",
+                                                     "voice_mode":  "neutral"
+                                                 },
+                                                 {
+                                                     "name":  "Exhibit A.pdf",
+                                                     "display_title":  "Exhibit A.pdf",
+                                                     "href":  "documents/Exhibit%20A.pdf",
+                                                     "summary":  "Signed Grohe-to-Walter transfer instrument setting out rights scope, trigger mechanics, and seller-side title warranty.",
+                                                     "artifact_summary":  "Signed Grohe-to-Walter transfer instrument setting out rights scope, trigger mechanics, and seller-side title warranty.",
+                                                     "primary_case":  "ali",
+                                                     "primary_circle":  "circle_1_control_layer",
+                                                     "primary_ring":  "earth",
+                                                     "secondary_rings":  [
+                                                                             "void"
+                                                                         ],
+                                                     "source_role":  "control",
+                                                     "voice_mode":  "neutral"
+                                                 },
+                                                 {
+                                                     "name":  "LEGAL_MEMO_SIGNED.pdf",
+                                                     "display_title":  "LEGAL_MEMO_SIGNED.pdf",
+                                                     "href":  "documents/LEGAL_MEMO_SIGNED.pdf",
+                                                     "summary":  "Swiss-law memo supporting trigger satisfaction, warranty value, and onward transferability logic.",
+                                                     "artifact_summary":  "Swiss-law memo supporting trigger satisfaction, warranty value, and onward transferability logic.",
+                                                     "primary_case":  "ali",
+                                                     "primary_circle":  "circle_1_control_layer",
+                                                     "primary_ring":  "earth",
+                                                     "secondary_rings":  [
+                                                                             "void"
+                                                                         ],
+                                                     "source_role":  "control",
+                                                     "voice_mode":  "neutral"
+                                                 }
+                                             ],
+                      "key_questions":  [
+                                            "What is real enough to anchor the strategy?",
+                                            "Which control gaps still block institutional confidence?"
+                                        ],
+                      "professional_equivalent":  "Foundation \u0026 Control",
+                      "display_title":  "Earth / Foundation \u0026 Control",
+                      "one_sentence_meaning":  "Foundation, control, canonical truth, legal base, and core structure."
+                  },
+                  {
+                      "id":  "water",
+                      "title":  "Water",
+                      "definition":  "Market form, wrappers, regional presentation, entry surfaces, and user-facing structure.",
+                      "why_it_matters":  "This ring governs how the same underlying engine appears coherently in different markets without losing operator clarity.",
+                      "linked_circles":  [
+                                             {
+                                                 "id":  "circle_3_commercialization_layer",
+                                                 "title":  "Circle 3 Commercialization Layer",
+                                                 "question":  "How does the project monetize, convert, retain, and scale on platform?"
+                                             }
+                                         ],
+                      "dominant_cases":  [
+                                             {
+                                                 "id":  "ali",
+                                                 "display":  "Crown Jewel Flagship",
+                                                 "full":  "Muhammad Ali Crown Jewel / U.S. Entry Flagship"
+                                             },
+                                             {
+                                                 "id":  "highlight",
+                                                 "display":  "European Capability Stack",
+                                                 "full":  "Highlight European Capability Stack / Swiss Anchor Layer"
+                                             },
+                                             {
+                                                 "id":  "integration",
+                                                 "display":  "3Co Bridge Architecture",
+                                                 "full":  "3Co Ecosystem / Swiss-Saudi Investor Visibility Bridge"
+                                             }
+                                         ],
+                      "featured_documents":  [
+                                                 {
+                                                     "name":  "TKO Update 20260326.pdf",
+                                                     "display_title":  "TKO Update 20260326.pdf",
+                                                     "href":  "documents/TKO%20Update%2020260326.pdf",
+                                                     "summary":  "Commercial sizing note estimating platform and audience upside under a premium archival documentary scenario.",
+                                                     "artifact_summary":  "Commercial sizing note estimating platform and audience upside under a premium archival documentary scenario.",
+                                                     "primary_case":  "ali",
+                                                     "primary_circle":  "circle_3_commercialization_layer",
+                                                     "primary_ring":  "water",
+                                                     "secondary_rings":  [
+                                                                             "void"
+                                                                         ],
+                                                     "source_role":  "evidence",
+                                                     "voice_mode":  "neutral"
+                                                 },
+                                                 {
+                                                     "name":  "MBC_Comprehensive_3Phase_Model_v7_boardroom_summary.xlsx",
+                                                     "display_title":  "MBC_Comprehensive_3Phase_Model_v7_boardroom_summary.xlsx",
+                                                     "href":  "documents/MBC_Comprehensive_3Phase_Model_v7_boardroom_summary.xlsx",
+                                                     "summary":  "Boardroom-style model tying flagship access, retention, and later platform/fusion logic into one commercial view.",
+                                                     "artifact_summary":  "Boardroom-style model tying flagship access, retention, and later platform/fusion logic into one commercial view.",
+                                                     "primary_case":  "ali",
+                                                     "primary_circle":  "circle_3_commercialization_layer",
+                                                     "primary_ring":  "water",
+                                                     "secondary_rings":  [
+                                                                             "void"
+                                                                         ],
+                                                     "source_role":  "evidence",
+                                                     "voice_mode":  "neutral"
+                                                 },
+                                                 {
+                                                     "name":  "conversation_summary_valuepillar.xlsx",
+                                                     "display_title":  "Conversation Summary / Value Pillars",
+                                                     "href":  "documents/supplemental/conversation_summary_valuepillar.xlsx",
+                                                     "summary":  "Companion workbook translating the same follow-up chat into value pillars such as trusted corridor-building, modernization, transparent entry, and long-horizon positioning",
+                                                     "artifact_summary":  "Authored value-pillar companion translating the same chat into corridor, modernization, entry, and long-horizon strategic logic.",
+                                                     "primary_case":  "integration",
+                                                     "primary_circle":  "circle_3_commercialization_layer",
+                                                     "primary_ring":  "water",
+                                                     "secondary_rings":  [
+                                                                             "void"
+                                                                         ],
+                                                     "source_role":  "authored_thinking",
+                                                     "voice_mode":  "architect"
+                                                 },
+                                                 {
+                                                     "name":  "Project TKO - WIP Discussion Document - 20260402.pdf",
+                                                     "display_title":  "Project TKO - WIP Discussion Document - 20260402.pdf",
+                                                     "href":  "documents/Project%20TKO%20-%20WIP%20Discussion%20Document%20-%2020260402.pdf",
+                                                     "summary":  "Advisor draft commercialization report extending the TKO workstream with executive summary, SVoD and AVoD analysis, valuation KPIs, and platform-value assumptions.",
+                                                     "artifact_summary":  "Advisor draft commercialization report extending the TKO workstream with executive summary, SVoD and AVoD analysis, valuation KPIs, and platform-value assumptions.",
+                                                     "primary_case":  "ali",
+                                                     "primary_circle":  "circle_3_commercialization_layer",
+                                                     "primary_ring":  "water",
+                                                     "secondary_rings":  [
+                                                                             "fire",
+                                                                             "wind"
+                                                                         ],
+                                                     "source_role":  "evidence",
+                                                     "voice_mode":  "neutral"
+                                                 }
+                                             ],
+                      "key_questions":  [
+                                            "Which market face lowers friction without hiding the operator?",
+                                            "How does the platform adapt by region while preserving the same core engine?"
+                                        ],
+                      "professional_equivalent":  "Market Form \u0026 Entry",
+                      "display_title":  "Water / Market Form \u0026 Entry",
+                      "one_sentence_meaning":  "Market form, wrappers, regional presentation, entry surfaces, and user-facing structure."
+                  },
+                  {
+                      "id":  "fire",
+                      "title":  "Fire",
+                      "definition":  "Execution, launch, activation, conversion, events, and timing under pressure.",
+                      "why_it_matters":  "This ring is where the system proves it can move from deck logic into behavior and compounding activity.",
+                      "linked_circles":  [
+                                             {
+                                                 "id":  "circle_2_execution_layer",
+                                                 "title":  "Circle 2 Execution Layer",
+                                                 "question":  "Can the project actually be financed, staffed, produced, and delivered?"
+                                             }
+                                         ],
+                      "dominant_cases":  [
+                                             {
+                                                 "id":  "ali",
+                                                 "display":  "Crown Jewel Flagship",
+                                                 "full":  "Muhammad Ali Crown Jewel / U.S. Entry Flagship"
+                                             }
+                                         ],
+                      "featured_documents":  [
+                                                 {
+                                                     "name":  "ALI Budget V3.pdf",
+                                                     "display_title":  "ALI Budget V3.pdf",
+                                                     "href":  "documents/ALI%20Budget%20V3.pdf",
+                                                     "summary":  "Detailed production budget naming leadership roles, key cost buckets, and timing assumptions.",
+                                                     "artifact_summary":  "Detailed production budget naming leadership roles, key cost buckets, and timing assumptions.",
+                                                     "primary_case":  "ali",
+                                                     "primary_circle":  "circle_2_execution_layer",
+                                                     "primary_ring":  "fire",
+                                                     "secondary_rings":  [
+                                                                             "water"
+                                                                         ],
+                                                     "source_role":  "evidence",
+                                                     "voice_mode":  "neutral"
+                                                 },
+                                                 {
+                                                     "name":  "Key Crew _.eml",
+                                                     "display_title":  "Key Crew _.eml",
+                                                     "href":  "documents/Key%20Crew%20_.eml",
+                                                     "summary":  "Crew-build email naming proposed department heads and why each role matters to execution.",
+                                                     "artifact_summary":  "Crew-build email naming proposed department heads and why each role matters to execution.",
+                                                     "primary_case":  "ali",
+                                                     "primary_circle":  "circle_2_execution_layer",
+                                                     "primary_ring":  "fire",
+                                                     "secondary_rings":  [
+                                                                             "water"
+                                                                         ],
+                                                     "source_role":  "evidence",
+                                                     "voice_mode":  "neutral"
+                                                 },
+                                                 {
+                                                     "name":  "Oscar and Emmy Qualifications.eml",
+                                                     "display_title":  "Oscar and Emmy Qualifications.eml",
+                                                     "href":  "documents/Oscar%20and%20Emmy%20Qualifications.eml",
+                                                     "summary":  "Awards-path email discussing theatrical, festival, and Emmy/Oscar qualification logic.",
+                                                     "artifact_summary":  "Awards-path email discussing theatrical, festival, and Emmy/Oscar qualification logic.",
+                                                     "primary_case":  "ali",
+                                                     "primary_circle":  "circle_2_execution_layer",
+                                                     "primary_ring":  "fire",
+                                                     "secondary_rings":  [
+                                                                             "water"
+                                                                         ],
+                                                     "source_role":  "evidence",
+                                                     "voice_mode":  "neutral"
+                                                 }
+                                             ],
+                      "key_questions":  [
+                                            "Can the flagship actually launch, convert, and retain?",
+                                            "Does the execution stack exist beyond narrative confidence?"
+                                        ],
+                      "professional_equivalent":  "Execution \u0026 Activation",
+                      "display_title":  "Fire / Execution \u0026 Activation",
+                      "one_sentence_meaning":  "Execution, launch, activation, conversion, events, and timing under pressure."
+                  },
+                  {
+                      "id":  "wind",
+                      "title":  "Wind",
+                      "definition":  "Outside field, intelligence, regulation, competitors, market reading, and capability mapping.",
+                      "why_it_matters":  "This ring explains how the system learns from the outside world and selectively absorbs external capability.",
+                      "linked_circles":  [
+                                             {
+                                                 "id":  "circle_4_ecosystem_layer",
+                                                 "title":  "Circle 4 Ecosystem Layer",
+                                                 "question":  "Why does this opportunity matter beyond one documentary project?"
+                                             }
+                                         ],
+                      "dominant_cases":  [
+                                             {
+                                                 "id":  "highlight",
+                                                 "display":  "European Capability Stack",
+                                                 "full":  "Highlight European Capability Stack / Swiss Anchor Layer"
+                                             },
+                                             {
+                                                 "id":  "integration",
+                                                 "display":  "3Co Bridge Architecture",
+                                                 "full":  "3Co Ecosystem / Swiss-Saudi Investor Visibility Bridge"
+                                             }
+                                         ],
+                      "featured_documents":  [
+                                                 {
+                                                     "name":  "Media-Sector-Report_Executive-Summary_EN.pdf",
+                                                     "display_title":  "Media-Sector-Report_Executive-Summary_EN.pdf",
+                                                     "href":  "documents/Media-Sector-Report_Executive-Summary_EN.pdf",
+                                                     "summary":  "Official sector snapshot supporting Saudi media growth, policy support, and structural demand for premium content.",
+                                                     "artifact_summary":  "Official sector snapshot supporting Saudi media growth, policy support, and structural demand for premium content.",
+                                                     "primary_case":  "integration",
+                                                     "primary_circle":  "circle_4_ecosystem_layer",
+                                                     "primary_ring":  "wind",
+                                                     "secondary_rings":  [
+                                                                             "void"
+                                                                         ],
+                                                     "source_role":  "external_context",
+                                                     "voice_mode":  "neutral"
+                                                 },
+                                                 {
+                                                     "name":  "highlight_problem_theory_onepager.docx",
+                                                     "display_title":  "Highlight Problem Theory One-Pager",
+                                                     "href":  "documents/highlight_problem_theory_onepager.docx",
+                                                     "summary":  "Strategic note explaining why Highlight matters as a later capability-integration option rather than a current transaction.",
+                                                     "artifact_summary":  "Authored strategic note on why Highlight matters as later capability integration rather than as the immediate transaction center.",
+                                                     "primary_case":  "highlight",
+                                                     "primary_circle":  "circle_4_ecosystem_layer",
+                                                     "primary_ring":  "wind",
+                                                     "secondary_rings":  [
+                                                                             "void"
+                                                                         ],
+                                                     "source_role":  "authored_thinking",
+                                                     "voice_mode":  "architect"
+                                                 },
+                                                 {
+                                                     "name":  "saudi_vision203.pdf",
+                                                     "display_title":  "saudi_vision203.pdf",
+                                                     "href":  "documents/saudi_vision203.pdf",
+                                                     "summary":  "Official Vision 2030 reference used to frame Saudi ecosystem fit and national media-development context.",
+                                                     "artifact_summary":  "Official Vision 2030 reference used to frame Saudi ecosystem fit and national media-development context.",
+                                                     "primary_case":  "integration",
+                                                     "primary_circle":  "circle_4_ecosystem_layer",
+                                                     "primary_ring":  "wind",
+                                                     "secondary_rings":  [
+                                                                             "void"
+                                                                         ],
+                                                     "source_role":  "external_context",
+                                                     "voice_mode":  "neutral"
+                                                 },
+                                                 {
+                                                     "name":  "Fair Price Assessment for Acquiring the Documentary World with AI.docx",
+                                                     "display_title":  "World with AI Fair Price Assessment",
+                                                     "href":  "documents/supplemental/Fair%20Price%20Assessment%20for%20Acquiring%20the%20Documentary%20World%20with%20AI.docx",
+                                                     "summary":  "Scenario-based comparator memo covering documentary acquisition value, DCF bands, delivery requirements, and contingent consideration design.",
+                                                     "artifact_summary":  "Scenario-based comparator memo covering documentary acquisition value, DCF bands, delivery requirements, and contingent consideration design.",
+                                                     "source_role":  "evidence",
+                                                     "voice_mode":  "neutral",
+                                                     "primary_case":  "integration",
+                                                     "primary_circle":  "circle_3_commercialization_layer",
+                                                     "primary_ring":  "wind",
+                                                     "secondary_rings":  [
+                                                                             "earth",
+                                                                             "water"
+                                                                         ]
+                                                 }
+                                             ],
+                      "key_questions":  [
+                                            "What does the outside field reward, resist, or make fragile?",
+                                            "Which external capabilities are worth integrating and which should remain contextual only?"
+                                        ],
+                      "professional_equivalent":  "External Field \u0026 Intelligence",
+                      "display_title":  "Wind / External Field \u0026 Intelligence",
+                      "one_sentence_meaning":  "Outside field, intelligence, regulation, competitors, market reading, and capability mapping."
+                  },
+                  {
+                      "id":  "void",
+                      "title":  "Void",
+                      "definition":  "Long-horizon doctrine, normalization, investor imagination, corridor logic, and strategic meaning.",
+                      "why_it_matters":  "This ring explains why the system exists beyond one title, one transaction, or one launch window.",
+                      "linked_circles":  [
+
+                                         ],
+                      "dominant_cases":  [
+                                             {
+                                                 "id":  "integration",
+                                                 "display":  "3Co Bridge Architecture",
+                                                 "full":  "3Co Ecosystem / Swiss-Saudi Investor Visibility Bridge"
+                                             },
+                                             {
+                                                 "id":  "highlight",
+                                                 "display":  "European Capability Stack",
+                                                 "full":  "Highlight European Capability Stack / Swiss Anchor Layer"
+                                             }
+                                         ],
+                      "featured_documents":  [
+                                                 {
+                                                     "name":  "saudi_data_room_logic_map.xlsx",
+                                                     "display_title":  "Saudi Data Room Logic Map",
+                                                     "href":  "documents/supplemental/saudi_data_room_logic_map.xlsx",
+                                                     "summary":  "Logic-map workbook showing how Saudi foreign-capital openness, fear analysis, and time-horizon thinking should sit above acquisition, retention, expansion, and integration modules",
+                                                     "artifact_summary":  "Authored logic map showing how Saudi openness, fear analysis, and time-horizon reasoning should govern the later modules.",
+                                                     "primary_case":  "integration",
+                                                     "primary_circle":  "circle_4_ecosystem_layer",
+                                                     "primary_ring":  "wind",
+                                                     "secondary_rings":  [
+                                                                             "void"
+                                                                         ],
+                                                     "source_role":  "authored_thinking",
+                                                     "voice_mode":  "architect"
+                                                 },
+                                                 {
+                                                     "name":  "deep-research-rejjport.md",
+                                                     "display_title":  "Five Rings Strategic Architecture Note",
+                                                     "href":  "documents/supplemental/deep-research-rejjport.md",
+                                                     "summary":  "Authored Five Rings note describing staged sequencing, gating, page roles, and how the packet should be entered as a designed doctrine",
+                                                     "artifact_summary":  "Authored Five Rings doctrine note covering staged sequencing, gating, and site-reading choreography in the author\u0027s own architectural language.",
+                                                     "primary_case":  "integration",
+                                                     "primary_circle":  "circle_4_ecosystem_layer",
+                                                     "primary_ring":  "wind",
+                                                     "secondary_rings":  [
+                                                                             "void"
+                                                                         ],
+                                                     "source_role":  "authored_thinking",
+                                                     "voice_mode":  "architect"
+                                                 },
+                                                 {
+                                                     "name":  "conversation_summary_comprehensive.xlsx",
+                                                     "display_title":  "Conversation Summary / Comprehensive",
+                                                     "href":  "documents/supplemental/conversation_summary_comprehensive.xlsx",
+                                                     "summary":  "Workbook summary of prior chat reasoning across ARC, Highlight, Swiss-Saudi bridge logic, AI replatforming, and transparent market-entry constraints",
+                                                     "artifact_summary":  "Authored workbook capturing bridge logic, operating redesign, wrapper questions, and strategic boundary conditions from the follow-up chat.",
+                                                     "primary_case":  "integration",
+                                                     "primary_circle":  "circle_3_commercialization_layer",
+                                                     "primary_ring":  "water",
+                                                     "secondary_rings":  [
+                                                                             "void"
+                                                                         ],
+                                                     "source_role":  "authored_thinking",
+                                                     "voice_mode":  "architect"
+                                                 }
+                                             ],
+                      "key_questions":  [
+                                            "Why does the bridge matter over 10 to 30 years?",
+                                            "How does repeated visible execution become investor familiarity and market normalization?"
+                                        ],
+                      "professional_equivalent":  "Long-Horizon Strategy",
+                      "display_title":  "Void / Long-Horizon Strategy",
+                      "one_sentence_meaning":  "Long-horizon doctrine, normalization, investor imagination, corridor logic, and strategic meaning."
+                  }
+              ],
+    "entry_points":  {
+                         "review_console":  "index.html",
+                         "library":  "library.html?mode=signal",
+                         "supplemental_index":  "documents/supplemental/index.html",
+                         "supplemental_index_json":  "documents/supplemental/index.json"
+                     }
+}

@@ -1,0 +1,23 @@
+USE THIS FOLDER ONLY IF THE LIVE SITE IS ALREADY MOSTLY UPLOADED
+
+Upload target on the live host:
+documents/supplemental/
+
+Files in this folder:
+- deep-research-rejjport.md
+- conversation_summary_comprehensive.xlsx
+- conversation_summary_valuepillar.xlsx
+- deep-research-report.md
+
+When to upload only these files:
+- the website already loads
+- the library page opens
+- only some document links fail
+
+When to upload the whole site instead:
+- the homepage does not load
+- the library does not load
+- many links fail across the room
+
+Main full-site package:
+C:\Users\aw\Desktop\EMPIREOFBRICKS-UPLOAD-SAFE
